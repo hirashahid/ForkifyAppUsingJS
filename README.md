@@ -1,29 +1,32 @@
-Forkify: Website for retrieving Recipes
+<h1 align="center">JavaScript-ForkifyApp</h1>
+<a href="#">
+  <div align="center" >
+    <img src="ss.png" width='400' height = '500'/>
+  </div>
+</a>
 
-It was a great challenge to complete this project.
-I have developed this site by using modern JS concepts which comes under E6/E7.
-By doing this project, I have learnt about:
+## <h2 align = "center"> [Tap to see more about this app](https://hirashahid.thecloudsoft.com/js-forkify/)</h2>
 
+## What I have learnt:
+- [x] Webpack Dev Server
+- [x] Configuring Webpack
+- [x] Babel
+- [x] ES6 Modules
+- [x] Used API to retrieve data
+- [x] Making API Calls
+- [x] Building Controllers
+- [x] Working with LocalStorage
 
-1) Webpack Dev Server
-2) Configuring Webpack
-3) Babel
-4) ES6 Modules
-5) Used API to retrieve data
-6) Making API Calls
-7) Building Controllers
-8) Working with LocalStorage
+## Author
+You can get in touch with me on my LinkedIn Profile:
 
+#### Hira Shahid
+[![LinkedIn Link](https://img.shields.io/badge/Connect-thehirashahid-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/thehirashahid)
 
-What this side does?
-=> Anyone can search about Recipe of dishes like Pizza and Pasta
+You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-hirashahid-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/hirashahid)
 
+If you liked the repo then kindly support it by giving it a star ⭐!
 
-
-=> A one can also increases the quantity of ingredients to balance others things out.
-
-
-
-=> A one can like the recipe so that it can be stored in Like Section and if he even refreshs the site, the recipe would be there as it was stored in LocalStorage.
-
-
+## LICENSE
+- MIT (2021)
